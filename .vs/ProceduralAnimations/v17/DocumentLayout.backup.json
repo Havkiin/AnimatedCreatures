@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{087075AE-2CA9-CB6A-3B87-9D1BB8E2D98C}|Assembly-CSharp.csproj|c:\\users\\cleme\\desktop\\unity projects\\proceduralanimations\\assets\\scripts\\spinegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087075AE-2CA9-CB6A-3B87-9D1BB8E2D98C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spinegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087075AE-2CA9-CB6A-3B87-9D1BB8E2D98C}|Assembly-CSharp.csproj|C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\assets\\scripts\\movementcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087075AE-2CA9-CB6A-3B87-9D1BB8E2D98C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087075AE-2CA9-CB6A-3B87-9D1BB8E2D98C}|Assembly-CSharp.csproj|C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\assets\\scripts\\joint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087075AE-2CA9-CB6A-3B87-9D1BB8E2D98C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\joint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087075AE-2CA9-CB6A-3B87-9D1BB8E2D98C}|Assembly-CSharp.csproj|C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\assets\\shaders\\fish.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{087075AE-2CA9-CB6A-3B87-9D1BB8E2D98C}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\fish.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087075AE-2CA9-CB6A-3B87-9D1BB8E2D98C}|Assembly-CSharp.csproj|C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\assets\\shaders\\circle.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{087075AE-2CA9-CB6A-3B87-9D1BB8E2D98C}|Assembly-CSharp.csproj|solutionrelative:assets\\shaders\\circle.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpineGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\Assets\\Scripts\\SpineGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpineGenerator.cs",
+              "ToolTip": "C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\Assets\\Scripts\\SpineGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpineGenerator.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAAAAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:07:13.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fish.shader",
+              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\Assets\\Shaders\\Fish.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\Fish.shader",
+              "ToolTip": "C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\Assets\\Shaders\\Fish.shader",
+              "RelativeToolTip": "Assets\\Shaders\\Fish.shader",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAALgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-20T17:03:28.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.shader",
+              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\Assets\\Shaders\\Circle.shader",
+              "RelativeDocumentMoniker": "Assets\\Shaders\\Circle.shader",
+              "ToolTip": "C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\Assets\\Shaders\\Circle.shader",
+              "RelativeToolTip": "Assets\\Shaders\\Circle.shader",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-09-17T02:06:33.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Joint.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\Assets\\Scripts\\Joint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Joint.cs",
+              "ToolTip": "C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\Assets\\Scripts\\Joint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Joint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:09:02.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovementComponent.cs",
+              "DocumentMoniker": "C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\Assets\\Scripts\\MovementComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementComponent.cs",
+              "ToolTip": "C:\\Users\\cleme\\Desktop\\Unity Projects\\ProceduralAnimations\\Assets\\Scripts\\MovementComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:22:31.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

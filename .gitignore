@@ -1,0 +1,44 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+
+# Asset Store files
+Assets/AssetStoreTools*
+
+# Auto-generated project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity3D log files
+*.log
+
+# Packed binaries and archives
+*.apk
+*.aab
+*.ipa
+*.app
+
+# Lock files
+Packages/manifest.json.lock
+
+# Crash logs
+sysinfo.txt
+crash_log.txt
+
+# Ignore specific system files
+.DS_Store
+*.swp
