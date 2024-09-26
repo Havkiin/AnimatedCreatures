@@ -1,4 +1,4 @@
-# Procedural Animations
+# Animated Creatures
 
 An animated fish created using a combination of procedural animation in Unity (C#) and ShaderLab for its display.
 
