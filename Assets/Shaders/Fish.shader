@@ -52,6 +52,7 @@ Shader "Unlit/Fish"
 
             float4 _FinPoints[4];
             float _FinAngles[2];
+            float _FinSizeMult[2];
 
             bool _DrawSpine;
 

@@ -35,8 +35,9 @@ public class SpineGenerator : MonoBehaviour
     Vector4[] outlinePointsUV;
     Vector4[] eyePointsUV;
     Vector4[] finPointsUV;
-    // Angle to the fin bone (in radians)
+
     float[] finAngles;
+    int[] finJointIndices = { 3, 7 };
 
     private void Start()
     {
@@ -53,6 +54,13 @@ public class SpineGenerator : MonoBehaviour
 
         meshBounds = meshFilter.sharedMesh.bounds;
         finAngles = new float[finNumber / 2];
+
+        float[] sizeMult = new float[finNumber / 2];
+        for (int i = 0; i < finJointIndices.Length; i++)
+        {
+            sizeMult[i] = jointSizes[i] * jointSizeMultiplier;
+        }
+        material.SetFloatArray("_FinSizeMult", sizeMult);
     }
 
     private void Update()
@@ -96,8 +104,8 @@ public class SpineGenerator : MonoBehaviour
             eyePointsUV = EyesToUV(joints);
             material.SetVectorArray("_EyePoints", eyePointsUV);
 
-            int[] jointIndices = { 3, 7 };
-            finPointsUV = FinsToUV(joints, jointIndices);
+            
+            finPointsUV = FinsToUV(joints, finJointIndices);
             material.SetVectorArray("_FinPoints", finPointsUV);
             material.SetFloatArray("_FinAngles", finAngles);
         }
