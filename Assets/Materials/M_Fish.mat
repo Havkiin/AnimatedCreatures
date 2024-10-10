@@ -41,8 +41,8 @@ Material:
     m_Floats:
     - _EnableExternalAlpha: 0
     - _EyeSize: 2.68
-    - _FinHeight: 0.38
-    - _FinWidth: 1.44
+    - _FinHeight: 0.53
+    - _FinWidth: 1.77
     - _NumPoints: 9.13
     - _OutlineWidth: 0.07
     m_Colors:

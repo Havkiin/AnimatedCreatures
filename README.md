@@ -2,6 +2,8 @@
 
 An animated fish created using a combination of procedural animation in Unity (C#) and ShaderLab for its display.
 
+![Fish Render](Render.gif)
+
 ## Generation
 
 The [Spine Generator](Assets/Scripts/SpineGenerator.cs) script creates all the joints in the spine of the fish.
